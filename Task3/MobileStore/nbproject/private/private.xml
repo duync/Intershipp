@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="2">
+        <file>
+            <url>src/java/model/SanPhamModel.java</url>
+            <bookmark id="2">
+                <name/>
+                <line>71</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>src/java/model/GioHangModel.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>19</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/MobileStore/web/shoppingCart.jsp</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/MobileStore/web/index.jsp</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/MobileStore/web/insertSP.jsp</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/MobileStore/src/java/controller/KhachHangServerlet.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/MobileStore/web/listSP.jsp</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/MobileStore/src/java/controller/SanPhamServlet1.java</file>
+        </group>
+    </open-files>
+</project-private>
