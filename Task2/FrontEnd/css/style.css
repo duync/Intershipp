@@ -1,0 +1,230 @@
+.header{
+  width: 100%;
+  height: 355px;
+}
+
+
+.left {
+  /* background-color:#cdcdce; */
+
+  padding:20px;
+  float:left;
+  width:33%; /* The width is 20%, by default */
+}
+ .left .leftimg{
+  width: 100%;
+  padding: 10px;
+  float: left;
+  
+} 
+
+.main {
+  /* background-color:#cdcdce; */
+  padding:20px;
+  float:left;
+  width:33%; 
+}
+ .main .img{
+  width: 100%;
+  padding: 10px;
+  float: left;
+  
+} 
+
+.right {
+  /* background-color:#cdcdce; */
+  padding:20px;
+  float:left;
+  width: 33%; 
+  /* height: 430px; */
+}
+ .right .rightimg{
+  width: 100%;
+  padding: -10px;
+  float: left;
+ 
+} 
+
+#link{
+  float: left;
+}
+#link1{
+  float: right; 
+}
+nav li{
+  display: inline-block;
+  width: 70px;
+  height: 10px;
+
+
+}
+nav li a{
+  text-decoration: none;
+  color: black;
+}
+nav a:hover{
+  color: palevioletred;
+  text-decoration: underline;   
+}
+nav a:active{
+  color: rgb(158, 81, 107);
+  text-decoration: underline;
+}
+nav{
+   padding: 10px;
+}
+.text{
+  width: 100%;
+}
+.itemTravel {
+  /* background-color:rgb(228, 220, 220) ; */
+  padding:20px;
+  float:left;
+  width:33.1%; /* The width is 20%, by default */
+}
+
+.itemHost {
+  /* background-color:rgb(228, 220, 220); */
+  padding:20px;
+  float:left;
+  width:33.1%; /* The width is 60%, by default */
+}
+
+.itemTrust {
+  /* background-color:rgb(228, 220, 220); */
+  padding:20px;
+  float:left;
+  width: 50px;
+  width:33.8%; /* The width is 20%, by default */
+}
+
+ @media screen and (min-width:768px) { 
+  .w3-hide-medium{
+    height:350px;
+    width:100%;
+  }
+  
+  body{
+    background-color: #cdcdce;
+  }
+  .container{
+    /* background-color: #cdcdce; */
+    width: 100%;
+    height: 530px;
+    margin-top: -20px;
+    margin-top: -40px;
+   
+  }
+  nav li a{
+    text-decoration: none;
+    color: black;
+  }
+ 
+.header{
+  
+  width: 100%;
+  height: 100px;
+}
+#Onimg{
+  position: absolute;
+  color: white;
+  top: 100px !important;
+  left: 120px;
+  margin-top: 25px;
+  font-size: 25px;
+  }
+  .menu{
+    text-decoration-color: black;
+    height: 70px;
+    background-color: white;
+  }
+  .gach{
+    display: none;
+    top: -50px;
+  }
+  .item1 {
+    margin-top: 390px;
+    margin-left: 50px;
+  
+}
+.itemTravel {
+  background-color:#ddd ;
+}
+
+.itemHost {
+  background-color:#ddd;
+}
+
+.itemTrust {
+  background-color:#ddd;
+}
+
+ } 
+
+
+
+@media screen and (max-width:992px) { 
+  body{
+    background-color: white;
+  }
+  .left  , .main, .right {width:50%;}
+
+  .itemTrust,.itemHost,.itemTravel {width:100%}
+ 
+ nav li a{
+  text-decoration: none;
+  color: white;
+}
+nav li a{
+  text-decoration: none;
+  color: white;
+  
+}
+.w3-hide-medium{
+  display: none;
+}
+.menu{
+  text-decoration-color: white;
+  background-color: rgb(65, 71, 71);
+  height: 70px;
+}
+#Onimg{
+  position: absolute;
+  color: black;
+  top: 20px !important;
+  left: 40px;
+  }
+  .menu{
+    text-decoration-color: black;
+  }
+  .gach {
+    top: 350px;
+    margin-top: -200px;
+  }
+  .item1 {
+    margin-left: 40px;
+}
+.itemTravel {
+  background-color: white ;
+}
+
+.itemHost {
+  background-color:white;
+}
+
+.itemTrust {
+  background-color: white;
+}
+} 
+/* .content{
+  background-color: rebeccapurple;
+} */
+.see{
+  color: rgb(91, 194, 194) !important;
+}
+h1{
+  font-size: 45px !important;
+}
+.From{
+  margin-top:-10px;
+}
